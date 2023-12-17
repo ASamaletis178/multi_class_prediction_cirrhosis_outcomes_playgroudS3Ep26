@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/samaletisalexis/projects/multi_class_prediction_cirrhosis_outcomes_playgroudS3Ep26/mlruns/795298213250767075/a696da7d894c497ab818e99a8f2aa85d/artifacts
+deleted_time: 1702848639244
+end_time: 1702846389720
+entry_point_name: ''
+experiment_id: '795298213250767075'
+lifecycle_stage: deleted
+run_id: a696da7d894c497ab818e99a8f2aa85d
+run_name: RF2023-12-17
+run_uuid: a696da7d894c497ab818e99a8f2aa85d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702846389664
+status: 3
+tags: []
+user_id: samaletisalexis

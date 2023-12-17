@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/c7dd14da95a34ef790bb6cea7231a85a/artifacts
+deleted_time: 1702846282794
+end_time: 1702845730932
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c7dd14da95a34ef790bb6cea7231a85a
+run_name: Cirrhosis2023-12-17
+run_uuid: c7dd14da95a34ef790bb6cea7231a85a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702845730862
+status: 3
+tags: []
+user_id: samaletisalexis
