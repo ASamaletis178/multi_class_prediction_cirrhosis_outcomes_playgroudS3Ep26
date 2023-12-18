@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/samaletisalexis/projects/multi_class_prediction_cirrhosis_outcomes_playgroudS3Ep26/mlruns/387568115636549974/f6bd431498304bafa0564981d0056a29/artifacts
+end_time: 1702935819904
+entry_point_name: ''
+experiment_id: '387568115636549974'
+lifecycle_stage: active
+run_id: f6bd431498304bafa0564981d0056a29
+run_name: Stacking_2023-12-18
+run_uuid: f6bd431498304bafa0564981d0056a29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702935819862
+status: 3
+tags: []
+user_id: samaletisalexis
